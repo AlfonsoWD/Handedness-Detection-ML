@@ -23,9 +23,9 @@ The system collects 21 landmark points per hand (63 features), trains a **Random
 
 ## 📁 Project Structure
 - `collect_hand_data.py` – Tool to record labeled training data  
-- `train_model.ipynb` – Jupyter notebook for training the classifier  
+- `Hand_Detection_Model_Trainer.ipynb` – Jupyter notebook for training the classifier  
 - `hand_classifier.pkl` – Saved model for inference  
-- `main.py` – Real-time webcam classification pipeline  
+- `hand_detection_model.py` – Real-time webcam classification pipeline  
 - `README.md` – Project documentation  
 
 ## 🔍 Future Improvements
